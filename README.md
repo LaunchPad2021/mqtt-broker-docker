@@ -6,4 +6,5 @@
 4. `docker-compose up -d`
 
 ### Runs mqtt broker on port `1883`
-    - Note: SSL on 9001 (Not Required).
+~Note: SSL on 9001 (Not Required).~
+## Websockets run on `9001`.
